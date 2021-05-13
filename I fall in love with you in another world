@@ -1,0 +1,17 @@
+{
+  "title": "I fall in love with you in another world",
+  "description": "Test description",
+  "artist": "Takarano Airando",
+  "author": "Takarano Airando",
+  "cover": "https://cdn.discordapp.com/attachments/842300018743574540/842300075052236800/unknown.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "NinjaNaito Scans": "/proxy/api/imgur/chapter/qJPPcJN/"
+      },
+      "last_updated": "1620936102"
+    }
+  }
+}
